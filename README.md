@@ -1,32 +1,131 @@
-<h1 align="center">Hi 👋, I'm Giriraj Parihar</h1>
-<h3 align="center">I'm a Software Engineer from India, and I'm passionate about Technology.</h3>
+<!-- <h2 align="center">
+  Welcome to Giriraj World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gb3335&label=Profile%20views&color=0e75b6&style=flat" alt="gb3335" /> </p>
+<!-- <p align="center">
+  <a href="https://github.com/gb3335"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gb3335" alt="gb3335" /></a> </p>
+<a href="https://komarev.com/ghpvc/?username=gb3335">
+  <img align="right" src="https://komarev.com/ghpvc/?username=gb3335&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-- 🌱 I’m currently learning **Rust, go lang**
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://cv.giriraj.site">Giriraj</a></b>
+        </samp>
+</h3>
 
-- 💬 Ask me about **DSA and development**
-
-- 📫 How to reach me **girirajparihaar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/giriraj-parihar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gb3335" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/zippy3335" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="camlot_9889e" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/girirajparihar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gb3335" height="30" width="40" /></a>
-<!-- <a href="https://codeforces.com/profile/camlot_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="camlot_e" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/gb3335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="camlot_9889e" height="30" width="40" /></a>
+<p align="center">
+  <samp>
+    <a href="https://www.google.com/search?q=Giriraj+Parihar">「 Google Me 」</a>
+    <br>
+    「 I am a full stack web application developer from <b>India</b> 」
+    <br>
+    <br>
+  </samp>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+ <a href="https://cv.giriraj.site" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="gb3335" />
+ </a>
+ <a href="https://linkedin.com/in/al-siam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gb3335"/>
+ </a>
+ <!-- <a href="https://dev.to/gb3335" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="gb3335" />
+ </a> -->
+ <a href="https://twitter.com/zippyaio" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/life_of_ambivert/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="gb3335" />
+ </a>
+ <a href="https://www.facebook.com/giriraj.parihar.9" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="gb3335"  />
+  </a>
+</p>
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gb3335&show_icons=true&locale=en&layout=compact" alt="gb3335" /></p>
+<!-- About Section -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gb3335&show_icons=true&locale=en" alt="gb3335" /></p>
+# About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gb3335&" alt="gb3335" /></p>
+<p>
+ <img align="right" width="350" src="./assets/programmer.gif" alt="Coding gif" />
+
+✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+❤️ &emsp; Love to writing code and learning new features<br/><br/>
+📧 &emsp; Reach me anytime: girirajparihaar@gmail.com<br/><br/>
+💬 &emsp; Ask me about anything [here](https://github.com/gb3335/gb3335/issues)
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
+## Use To Code
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+## Top Open Source -
+
+[![Handwritten Character Recognition](https://github-readme-stats.vercel.app/api/pin/?username=gb3335&repo=Study-on-Handwritten-Character-Recognition-Using-Deep-Learning&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gb3335/itasks)
+[![Covid19](https://github-readme-stats.vercel.app/api/pin/?username=gb3335&repo=covid19&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gb3335/urfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=gb3335&repo=gb3335.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gb3335/web-projects)
+[![Giriraj Readme](https://github-readme-stats.vercel.app/api/pin/?username=gb3335&repo=gb3335&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gb3335/gb3335)
+
+<p align="left">
+  <a href="https://github.com/gb3335?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/gb3335">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gb3335&theme=radical&border=7F3FBF&background=0D1117" alt="Giriraj's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gb3335">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gb3335&theme=radical" alt="Giriraj's GitHub Contribution"/>
+  </a>
+</p>
+
+<a>
+    <a href="https://github.com/gb3335"><img alt="Giriraj's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gb3335&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/gb3335"><img alt="Giriraj's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gb3335&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+![Giriraj's Graph](https://github-readme-activity-graph.vercel.app/graph?username=gb3335&custom_title=Giriraj's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
