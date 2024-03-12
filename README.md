@@ -11,7 +11,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=gb3335&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+[![wakatime](https://wakatime.com/badge/user/018e32af-ad17-4a0d-a2e5-9b0ff3971a8d.svg)](https://wakatime.com/@018e32af-ad17-4a0d-a2e5-9b0ff3971a8d)
 
 <!-- Intro  -->
 <h3 align="center">
