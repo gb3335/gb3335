@@ -97,9 +97,9 @@
 
 ## Top Open Source -
 
-[![Handwritten Character Recognition](https://github-readme-stats.vercel.app/api/pin/?username=gb3335&repo=Study-on-Handwritten-Character-Recognition-Using-Deep-Learning&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gb3335/itasks)
-[![Covid19](https://github-readme-stats.vercel.app/api/pin/?username=gb3335&repo=covid19&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gb3335/urfolio)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=gb3335&repo=gb3335.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gb3335/web-projects)
+[![Handwritten Character Recognition](https://github-readme-stats.vercel.app/api/pin/?username=gb3335&repo=Study-on-Handwritten-Character-Recognition-Using-Deep-Learning&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gb3335/Study-on-Handwritten-Character-Recognition-Using-Deep-Learning)
+[![Covid19](https://github-readme-stats.vercel.app/api/pin/?username=gb3335&repo=covid19&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gb3335/covid19)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=gb3335&repo=gb3335.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gb3335/gb3335.github.io)
 [![Giriraj Readme](https://github-readme-stats.vercel.app/api/pin/?username=gb3335&repo=gb3335&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gb3335/gb3335)
 
 <p align="left">
