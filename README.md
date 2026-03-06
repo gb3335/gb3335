@@ -112,7 +112,7 @@ fun_fact   : "I debug with console.log and I'm not ashamed 😄"
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=gb3335&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img width="100%" src="https://github-profile-trophy.screw-hand.vercel.app/?username=gb3335&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
