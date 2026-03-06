@@ -31,8 +31,8 @@
 name       : Giriraj Parihar
 location   : India 🇮🇳
 role       : Full Stack Web Developer & Server Architect
-portfolio  : https://cv.giriraj.site
-education  : Bachelor's in Computer Science
+portfolio  : https://giriraj.site
+education  : Master's in Computer Science
 
 specialties:
   - Full Stack Web Development (PHP, Node.js, JavaScript)
@@ -122,10 +122,10 @@ fun_fact   : "I debug with console.log and I'm not ashamed 😄"
 
 <div align="center">
 
-<a href="https://cv.giriraj.site" target="_blank">
+<a href="https://giriraj.site" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/al-siam" target="_blank">
+<a href="https://linkedin.com/in/giriraj-parihar" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:giriraj@cv.giriraj.site" target="_blank">
