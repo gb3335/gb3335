@@ -1,5 +1,5 @@
 <div align="center">
-<!-- profile -->
+<!-- profile --> 
 <!-- Dynamic Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Giriraj%20Parihar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Server%20Architect%20%7C%20Open%20Source%20Builder&descSize=16&descAlignY=60&descColor=a0aec0" />
 
